@@ -2,4 +2,4 @@
 
 ## Editing the field
 
-Its a ,arkdown field in the repository
+Its a markdown field in the repository
